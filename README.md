@@ -10,6 +10,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anna-reirl&show_icons=true&locale=en&layout=compact" alt="anna-reirl" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anna-reirl&show_icons=true&locale=en" alt="anna-reirl" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anna-reirl&show_icons=true&locale=en" alt="rwolfin" /></p>
 
 
