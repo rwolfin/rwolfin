@@ -7,7 +7,7 @@
 
 <h3 align="left">Я использую</h3>
 <p align="left"> 
-![](./assets/skil.jpg)
+<img src="https://github.com/rwolfin/rwolfin/blob/main/assets/skil.jpg">
 </p>
 
 
