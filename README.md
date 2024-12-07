@@ -19,7 +19,6 @@
 <img src="https://github.com/rwolfin/rwolfin/blob/main/assets/item-10.png">
 <img src="https://github.com/rwolfin/rwolfin/blob/main/assets/item-11.png">
 <img src="https://github.com/rwolfin/rwolfin/blob/main/assets/item-12.png">
-<img src="https://github.com/rwolfin/rwolfin/blob/main/assets/item-13.png">
 </p>
 
 
